@@ -1,0 +1,9 @@
+1. pip install opencv-python
+pip install numpy
+pip install setuptools
+pip install --upgrade setuptools
+pip install imutils
+pip install setuptools
+python -m ensurepip --default-pip
+pip install --upgrade pip setuptools wheel
+
